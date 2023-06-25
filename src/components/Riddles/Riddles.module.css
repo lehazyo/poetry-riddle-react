@@ -1,0 +1,24 @@
+.wrapper {
+		display: flex;
+		flex-direction: column;
+		gap: 20px 0;
+}
+
+.columns {
+		display: flex;
+		flex-direction: column;
+}
+
+.column {
+		display: flex;
+		flex-direction: column;
+		flex-grow: 1;
+		gap: 20px 0;
+}
+
+@media (min-width: 600px) {
+		.columns {
+				flex-direction: row;
+				gap: 0 20px;
+		}
+}

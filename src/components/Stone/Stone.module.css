@@ -1,0 +1,42 @@
+.wrapper {
+		margin: 0 -10px;
+}
+
+.inner {
+		position: relative;
+}
+
+.bgWrapper {
+
+}
+
+.bgImg {
+		width: 100%;
+		pointer-events: none;
+}
+
+.letters {
+		position: absolute;
+		top: 22%;
+		right: 18%;
+		bottom: 16%;
+		left: 12%;
+		display: flex;
+		flex-wrap: wrap;
+}
+
+.stone {
+		width: 10%;
+		position: relative;
+}
+
+.hintWrapper {
+		display: flex;
+		justify-content: center;
+}
+
+@media (min-width: 1000px) {
+		.wrapper {
+				margin: 0;
+		}
+}

@@ -1,0 +1,50 @@
+.wrapper {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		position: relative;
+		font-size: 16px;
+		width: 30px;
+		height: 30px;
+		background-color: #dd2;
+}
+
+.letter {
+		pointer-events: none;
+}
+
+.full {
+		background-color: #2d2;
+}
+
+.inStone,
+.inRiddles {
+		position: absolute;
+		right: 0;
+		left: 0;
+		height: 50%;
+}
+
+.inStone {
+		top: 0;
+		background: #aaa;
+}
+
+.inRiddles {
+		bottom: 0;
+		background: #bbb;
+}
+
+@media (min-width: 1000px) {
+		.inStone,
+		.inRiddles {
+				height: auto;
+				width: 50%;
+		}
+		.inStone {
+				right: auto;
+		}
+		.inRiddles {
+				left: auto;
+		}
+}

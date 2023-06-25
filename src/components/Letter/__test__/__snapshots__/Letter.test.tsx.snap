@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Letter tests Component matches snapshot 1`] = `
+<div
+  className="wrapper"
+>
+  <div
+    aria-label="Буква А использована вами в стихотворении"
+    className="top"
+  />
+  <span
+    className="letter"
+  >
+    А
+  </span>
+  <div
+    aria-label="Буква А использована вами в загадках"
+    className="bottom"
+  />
+</div>
+`;

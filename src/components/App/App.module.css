@@ -1,0 +1,88 @@
+:global(html),
+:global(#root) {
+		height: 100%;
+}
+
+:global(#root) {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+}
+
+:global(body) {
+		height: 100%;
+		margin: 0;
+		padding: 0;
+		background: #ccc;
+		font-size: 18px;
+}
+
+:global(body *) {
+		box-sizing: border-box;
+}
+
+.wrapper {
+		display: flex;
+		flex-direction: column;
+		gap: 20px 0;
+		padding: 10px;
+		background: #fff;
+		flex-grow: 1;
+}
+
+.stone {
+		order: 2;
+}
+
+.letters {
+		order: 3;
+}
+
+.controls {
+		order: 1;
+}
+
+.firstBlock {
+		display: flex;
+		flex-direction: column;
+		gap: 20px 0;
+}
+
+.secondBlock {
+
+}
+
+@media (min-width: 500px) {
+		.wrapper {
+				padding: 20px 30px;
+		}
+}
+
+@media (min-width: 1200px) {
+		.wrapper {
+				flex-direction: row;
+				gap: 0 30px;
+				max-width: 1200px;
+				box-shadow: 0 0 20px rgba(0, 0, 0, .3);
+		}
+
+		.stone {
+				order: 1;
+		}
+
+		.letters {
+				order: 2;
+		}
+
+		.controls {
+				order: 3;
+		}
+
+		.firstBlock {
+				width: 50%;
+		}
+
+		.secondBlock {
+				width: 50%;
+		}
+}

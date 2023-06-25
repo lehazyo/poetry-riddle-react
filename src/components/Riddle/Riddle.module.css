@@ -1,0 +1,26 @@
+.wrapper {
+		display: flex;
+		flex-direction: column;
+		gap: 5px 0;
+}
+
+.upper {
+		display: flex;
+}
+
+.number {
+		width: 26px;
+}
+
+.label {
+	white-space: nowrap;
+}
+
+.input {
+		width: 100%;
+}
+
+.inputWrapper {
+		display: flex;
+		padding-left: 26px;
+}

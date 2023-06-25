@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/poetry-riddle-react/static/css/main.91a8a0e3.css",
+    "main.js": "/poetry-riddle-react/static/js/main.60850dca.js",
+    "static/media/stone-bg.jpg": "/poetry-riddle-react/static/media/stone-bg.90d01feb12f194278989.jpg",
+    "index.html": "/poetry-riddle-react/index.html",
+    "static/media/letter5.svg": "/poetry-riddle-react/static/media/letter5.05fb378659dcc7ebfea803cc70c19ab7.svg",
+    "static/media/letter7.svg": "/poetry-riddle-react/static/media/letter7.0fd6a5849da6428c64fdfd23d5d5f305.svg",
+    "static/media/letter8.svg": "/poetry-riddle-react/static/media/letter8.341adda84f82e516b67bf3652235a89a.svg",
+    "static/media/letter10.svg": "/poetry-riddle-react/static/media/letter10.7866662cdd7a435eb730edb6a38fe224.svg",
+    "static/media/letter3.svg": "/poetry-riddle-react/static/media/letter3.98f9310742a496f9ea6a79de09ebf11e.svg",
+    "static/media/letter1.svg": "/poetry-riddle-react/static/media/letter1.27bbdcd3d7e507f8358e233856ce18a9.svg",
+    "static/media/letter21.svg": "/poetry-riddle-react/static/media/letter21.607d70d9994ccda4b1984f71d1d4a4c5.svg",
+    "static/media/letter13.svg": "/poetry-riddle-react/static/media/letter13.c10dbbd6cc74140aac770e70c5943d7d.svg",
+    "static/media/letter22.svg": "/poetry-riddle-react/static/media/letter22.70aece6965ee4d5c323425b8e7713b44.svg",
+    "static/media/letter18.svg": "/poetry-riddle-react/static/media/letter18.b0b7f6579d10cfe405f3b32f7f6258b5.svg",
+    "static/media/letter14.svg": "/poetry-riddle-react/static/media/letter14.cfbc16d083679fa66805e537ce4047c2.svg",
+    "static/media/letter11.svg": "/poetry-riddle-react/static/media/letter11.1a93bc551c082bf93c26f2454dada35b.svg",
+    "static/media/letter2.svg": "/poetry-riddle-react/static/media/letter2.4d57580b77bdb488980eafa3e1c1cddd.svg",
+    "static/media/letter4.svg": "/poetry-riddle-react/static/media/letter4.5948782637d0483636b40b2ffcd358d7.svg",
+    "static/media/letter6.svg": "/poetry-riddle-react/static/media/letter6.599bb57329a854f1adad649c5d79dc34.svg",
+    "static/media/letter12.svg": "/poetry-riddle-react/static/media/letter12.2b6eb2a99c883fc6a01f0ee70af86fd2.svg",
+    "static/media/letter15.svg": "/poetry-riddle-react/static/media/letter15.8a24e11f87c48d4031c0dcb07a54dc54.svg",
+    "static/media/letter9.svg": "/poetry-riddle-react/static/media/letter9.d66e9d757ae44955dec396f141aaff46.svg",
+    "static/media/letter16.svg": "/poetry-riddle-react/static/media/letter16.2ed04c26ffd56cde415691325ab20f6c.svg",
+    "static/media/letter17.svg": "/poetry-riddle-react/static/media/letter17.4a4bb402669ea78268f4529d1de2e22c.svg",
+    "static/media/letter20.svg": "/poetry-riddle-react/static/media/letter20.1e49aa910d89f974e0d4c19c30484c64.svg",
+    "static/media/letter19.svg": "/poetry-riddle-react/static/media/letter19.b45b4207abd1afe93e29aef938c88811.svg",
+    "main.91a8a0e3.css.map": "/poetry-riddle-react/static/css/main.91a8a0e3.css.map",
+    "main.60850dca.js.map": "/poetry-riddle-react/static/js/main.60850dca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91a8a0e3.css",
+    "static/js/main.60850dca.js"
+  ]
+}

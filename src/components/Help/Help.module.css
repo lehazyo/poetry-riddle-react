@@ -1,0 +1,23 @@
+.wrapper {
+		display: flex;
+		flex-direction: column;
+		gap: 10px 0;
+}
+
+.buttons {
+		display: flex;
+		align-items: center;
+		gap: 0 4px;
+		margin: auto;
+}
+
+.divider {
+
+}
+
+.text {
+		display: flex;
+		flex-direction: column;
+		gap: 12px 0;
+		padding: 16px;
+}
