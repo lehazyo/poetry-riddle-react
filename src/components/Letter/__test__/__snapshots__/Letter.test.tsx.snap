@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Letter tests Component matches snapshot 1`] = `
+<div
+  aria-label="Буква А использована вами на камне и в загадках"
+  aria-labelledby={null}
+  className="wrapper full"
+  data-mui-internal-clone-element={true}
+  onBlur={[Function]}
+  onFocus={[Function]}
+  onMouseLeave={[Function]}
+  onMouseOver={[Function]}
+  onTouchEnd={[Function]}
+  onTouchStart={[Function]}
+>
+  <span
+    className="letter"
+  >
+    А
+  </span>
+</div>
+`;
